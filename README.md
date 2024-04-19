@@ -1,8 +1,5 @@
 # Automation Testing Capstone Project
 Create a Testing Framework for Sporty Shoes Website
-Name : Mrinalini
-Email : mrdharme@cisco.com
-Github : https://github.com/mrinalini2110/ATE_CAPSTONE_FINAL_PROJECT
 
 
 Problem Statement and Motivation Real-Time Scenario:
